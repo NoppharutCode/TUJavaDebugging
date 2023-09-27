@@ -1,0 +1,14 @@
+
+- Introduction to debugging
+- Basic debugging operation
+- Smart step into and run to cursor operation
+- Variable Console Operation (include watches, evaluate expression, filter collection, and change value during runtime)
+- Workshop 1
+- Conditional Breakpoint
+- Exception Breakpoint
+- Workshop 2
+- Method Breakpoint
+- Action Breakpoint
+- Field watchpoints
+- Lambda expression and stream
+- Workshop 3

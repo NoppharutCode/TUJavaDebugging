@@ -44,4 +44,11 @@ public class Student {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void printFullDetails() {
+        System.out.println("Student id: " + this.studentId);
+        System.out.println("Student first name: " + this.firstName);
+        System.out.println("Student last name: " + this.lastName);
+        System.out.println("Student age: " + this.age);
+    }
 }
